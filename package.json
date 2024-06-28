@@ -13,8 +13,13 @@
     "url": "https://github.com/michaelck/nodejs-googlemaps-example/issues"
   },
   "dependencies": {
-    "express": ">=4.13",
-    "jade": "1.11.0"
+    "constantinople": "^4.0.1",
+    "express": "^4.19.2",
+    "jade": "^1.11.0",
+    "transformers": "^3.1.0"
   },
-  "homepage": "https://github.com/michaelck/nodejs-googlemaps-example#readme"
+  "homepage": "https://github.com/michaelck/nodejs-googlemaps-example#readme",
+  "scripts": {
+    "test": "your-test-command"
+  }
 }
